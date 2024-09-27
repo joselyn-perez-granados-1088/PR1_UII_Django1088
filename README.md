@@ -12,4 +12,5 @@
 - 10. instalar Django --> python -m pip install django
 - 11. crear el proyecto -->  django-admin startproject webminino_proyecto .
 - 12. realizar migracion al proyecto --> python manage.py migrate
-- 13. ejecutar servidor web --> http://127.0.0.1:8000/
+- 13. ejecutar servidor web --> python manage.py runserver
+- 14. me trabajo el proyecto --> http://127.0.0.1:8000/
